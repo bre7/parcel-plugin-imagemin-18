@@ -1,20 +1,4 @@
 {
-  "dependencies": {
-    "bootstrap": "^3.3.7",
-    "bourbon": "^5.1.0",
-    "bootstrap-datepicker": "^1.8.0",
-    "bootstrap-sass": "^3.3.7",
-    "bootstrap-select": "^1.13.1",
-    "fg-loadcss": "^2.0.1",
-    "headroom.js": "^0.9.4",
-    "imagesloaded": "^4.1.4",
-    "isotope-layout": "^3.0.6",
-    "jquery": "^3.3.1",
-    "jquery-bridget": "^2.0.1",
-    "mailcheck": "^1.1.1",
-    "owl.carousel": "^2.3.4",
-    "photoswipe": "^4.1.2"
-  },
   "devDependencies": {
     "parcel-bundler": "^1.9.7",
     "parcel-plugin-imagemin": "^2.0.0"
